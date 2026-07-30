@@ -1,0 +1,19 @@
+body{
+    background:#f8f9fa;
+}
+
+.card{
+    transition:0.3s;
+}
+
+.card:hover{
+    transform:translateY(-5px);
+}
+
+table{
+    background:white;
+}
+
+footer{
+    width:100%;
+}

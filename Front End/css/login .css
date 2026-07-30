@@ -1,0 +1,22 @@
+body{
+    background-color:#f8f9fa;
+}
+
+.card{
+    border-radius:10px;
+}
+
+.card-header{
+    font-weight:bold;
+}
+
+span{
+    color:red;
+    font-size:13px;
+}
+
+footer{
+    position:fixed;
+    bottom:0;
+    width:100%;
+}
